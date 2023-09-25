@@ -1,5 +1,7 @@
 ### React SSR
 
+Article Url - [here](https://galvanized-wormhole-a98.notion.site/React-SSR-ab2b472b1c7046c786d608094baddc8d?pvs=4)
+
 Let’s create a React app with client-side rendering (SSR) from scratch. 
 
 Prerequisites - 
